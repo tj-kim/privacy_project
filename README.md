@@ -1,7 +1,10 @@
 # Privacy Project - Stealing Machine Learning Models via Querying
 
 by Qinyu Zhu and Taejin Kim
-FA19 Carnegie Mellon University - Foundations of Privacy
+
+FA19 Carnegie Mellon University
+
+Foundations of Privacy
 
 ### Summary
 
